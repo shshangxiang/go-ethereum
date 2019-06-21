@@ -1,7 +1,18 @@
 ## 本客户的在以太坊基础上进行了修改，更适合于许可链、联盟链、私有链等企业区块链应用。
    添加了            AES加密解密RPC端口  
                      椭圆加密算法曲线ECIES RPC端口  
-                    
+                     支持代理 政府部门和银行网络能够很好的支持  
+                     文件上链方便 修改的swarm本身的一些bug，能够在多操作系统环境下运行。  
+   windows 下的编译方法：
+   go install -v github.com/ethereum/go-ethereum/cmd/geth
+   
+   
+   added aes encryption and decrypt endpoint  
+   added ecc encryption and decrypt endpoint  
+   addes keccak256 hash encryption endpoint  
+   support propoxy  
+   
+   
  
 ## Go Ethereum
 
