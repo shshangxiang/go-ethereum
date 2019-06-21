@@ -1,3 +1,8 @@
+## 本客户的在以太坊基础上进行了修改，更适合于许可链、联盟链、私有链等企业区块链应用。
+   添加了            AES加密解密RPC端口
+                     椭圆加密算法曲线ECIES RPC端口
+                    
+ 
 ## Go Ethereum
 
 Official Golang implementation of the Ethereum protocol.
